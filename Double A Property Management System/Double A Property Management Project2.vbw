@@ -1,0 +1,13 @@
+rentpaymentform = 150, 150, 1010, 612, C, 100, 100, 960, 562, C
+agentearningsform = 175, 175, 1035, 637, C, 150, 150, 1010, 612, C
+remittanceform = 125, 125, 985, 587, C, 225, 225, 1085, 687, C
+companyincomeform = 25, 25, 885, 487, C, 225, 225, 1085, 687, C
+tenantsform = 200, 200, 1060, 662, C, 175, 175, 1035, 637, C
+estateform = 75, 75, 935, 537, C, 25, 25, 885, 487, C
+menuform = 125, 125, 983, 587, C, 100, 100, 958, 562, C
+landlordform = 100, 100, 960, 562, C, 50, 50, 910, 512, C
+aboutform = 0, 0, 0, 0, C, 225, 225, 1085, 687, C
+employeesform = 50, 50, 910, 512, C, 0, 0, 860, 462, C
+companyexpensesform = 0, 0, 860, 462, C, 200, 200, 1060, 662, C
+agentsform = 175, 175, 1033, 637, C, 150, 150, 1008, 612, C
+tenancyagreementform = 175, 175, 1035, 637, C, 150, 150, 1010, 612, C
